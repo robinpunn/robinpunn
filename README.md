@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-I'm **Robin Punnoose**. I'm a *freelance* ***fullstack*** **Blockchain** and **Web** *developer*. I've learned ***front-end*** and ***back-end*** web development using online resources such as [**freeCodeCamp**](https://www.freecodecamp.org/), [**Academind**](https://academind.com/), and [**Zero to Mastery**](https://zerotomastery.io/). I've learned blockchain development on EVM chains using Solidity through [**Alchemy University**](https://university.alchemy.com/). I'm building web2 and web3 projects, and expanding my knowledge on **JavaScript, React, Next.js, Node.js, Express.js, and Solidity** I love learning new technologies, and I'm always looking for new opportunities to learn and grow.
+I'm **Robin Punnoose**. I'm a *freelance* ***full-stack*** **Blockchain** and **Web** *developer*. I've learned ***front-end*** and ***back-end*** web development using online resources such as [**freeCodeCamp**](https://www.freecodecamp.org/), [**Academind**](https://academind.com/), and [**Zero to Mastery**](https://zerotomastery.io/). I've learned blockchain development on EVM chains using Solidity through [**Alchemy University**](https://university.alchemy.com/). I'm building web2 and web3 projects, and expanding my knowledge on **JavaScript, React, Next.js, Node.js, Express.js, and Solidity**. I love learning new technologies, and I'm always looking for new opportunities to learn and grow.
 
 - 🔭 I’m currently looking for freelance **Full-Stack Web Development** and **Blockchain Development** work
-- 🌱 I’m currently learning **Svelte, Vue, Angular, Nest.js, and Typescript**
+- 🌱 I’m currently learning **TypeScript, Svelte, Vue, Angular, and Nest.js**
 - 👯 I’m looking to collaborate on **Open Source** projects
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/robin-punnoose/" target="_blank">**LinkedIn**</a>
 
