@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-I'm **Robin Punnoose**. I'm a former **Healthcare Professional** transitioning to career in **Web Development**. I have gained knowledge on ***front-end*** and ***back-end*** web development using online resources such as **freeCodeCamp**, **Academind**, and **Zero to Mastery**. I'm currently learning more about blockchain development on the Ethereum blockchain through **Alchemy University**. I'm building web2 projects and expanding my knowledge on **React, Next.js, Vue, Node.js, Express.js, SQL, MongoDB, and WordPress.** I love learning new technologies, and I'm always looking for new opportunities to learn and grow.
+I'm **Robin Punnoose**. I'm a *freelance* ***fullstack*** **Blockchain** and **Web** *developer*. I've learned ***front-end*** and ***back-end*** web development using online resources such as [**freeCodeCamp**](https://www.freecodecamp.org/), [**Academind**](https://academind.com/), and [**Zero to Mastery**](https://zerotomastery.io/). I've learned blockchain development on EVM chains using Solidity through [**Alchemy University**](https://university.alchemy.com/). I'm building web2 and web3 projects, and expanding my knowledge on **JavaScript, React, Next.js, Node.js, Express.js, and Solidity** I love learning new technologies, and I'm always looking for new opportunities to learn and grow.
 
-- 🔭 I’m currently looking for a **Full-Stack Web Developer** position
-- 🌱 I’m currently learning **Vue, Nest.js, Typescript, and Solidity**
+- 🔭 I’m currently looking for freelance **Full-Stack Web Development** and **Blockchain Development** work
+- 🌱 I’m currently learning **Svelte, Vue, Angular, Nest.js, and Typescript**
 - 👯 I’m looking to collaborate on **Open Source** projects
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/robin-punnoose/" target="_blank">**LinkedIn**</a>
 
