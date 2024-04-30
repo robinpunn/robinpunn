@@ -1,14 +1,16 @@
-## Hi there 👋
-
-I'm **Robin Punnoose**. I'm a _freelance_ **_full-stack_** **Web** and **Blockchain**
- _developer_. I'm currently building web and blockchain projects. I'm also learning more about Smart Contract auditing and Bug Bounty Hunting.
-
-- 🔭 I’m currently looking for freelance **Full-Stack Web Development** and
-  **Blockchain Development** work
-- 🌱 I’m currently learning **Smart Contract Auditing**
-- 👯 I’m looking to collaborate on **Open Source** projects
-- 📫 How to reach me:
-  <a href="https://www.linkedin.com/in/robin-punnoose/" target="_blank">**LinkedIn**</a>
-
-Read my <a href="https://blog.robinpunn.com" target="_blank">**Blog**</a><br>
-View my <a href="https://robinpunn.com" target="_blank">**Portfolio**</a>
+                            .--.
+                          ."  o \__
+                      _.-"    ,(  `
+                  _.-"      ,;;|
+              _.-=" _,"    ,,;;;'
+          .-"`_.-"``-..,,;;;;:'
+          `"'`          `\`\
+                        /^\\\
+                000      111         
+                000      111         
+                000                 
+0101010  0110   0000101  111  00001  
+01010  00    00 10    10 111 00   01 
+010    00    00 10    00 111 00   001 
+010    00    00 10    10 111 00   001 
+010      0110   0000101  111 00   011
